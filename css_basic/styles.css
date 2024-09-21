@@ -1,0 +1,35 @@
+body {
+    flex-direction: column;
+    background-color: rgb(249, 249, 241);
+}
+
+main {
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+    color: rgb(46, 94, 78);
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
+header {
+    background-color: rgb(244, 153, 168);
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+
+
