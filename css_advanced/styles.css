@@ -1,0 +1,201 @@
+nav {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+.Leading {
+    height: 100vh;
+}
+
+.Leading h1 {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.learn {
+    color: rgb(197, 116, 226);
+    font-weight: bold;
+    font-size: large;
+}
+
+.Leading span {
+    text-align: center;
+    padding: 20px;
+    font-size: x-small;
+    margin-bottom: 20%;
+}
+
+.Leading button {
+    display: flex;
+    padding: 8px 10px;
+    margin-left: 45%;
+    color: white;
+    border-radius: 20px;
+    margin-top: 2%;
+    margin-bottom: 12%;
+    background-color: rgb(197, 116, 226);
+    border-color: rgb(197, 116, 226);
+}
+
+.Leading h2 {
+    text-align: center;
+    font-size: large;
+    margin-bottom: 5%;
+}
+
+.names {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.weather {
+    background-color: rgb(197, 116, 226);
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+    color: white;
+}
+
+.weather h3 {
+    font-weight: bold;
+    margin-top: 5%;
+    margin-right: 2%;
+}
+
+.weather p {
+    font-style: oblique;
+}
+
+.tutorial h2 {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 5%;
+}
+
+.popular {
+    color: rgb(197, 116, 226);
+}
+
+.smile {
+    display: flex;
+    margin-top: 5%;
+    padding: 20px;
+    position: relative;
+}
+
+.play {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 120px;
+    top: 80px;
+}
+
+.playy {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 520px;
+    top: 80px;
+}
+
+.playyy {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 850px;
+    top: 80px;
+}
+
+.playyyy {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 1250px;
+    top: 80px;
+}
+
+.membership {
+    background-color: black;
+    margin-bottom: 3%;
+}
+
+.membership h2 {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 5%;
+    color: white;
+    background-color: black;
+}
+
+.free {
+    color: rgb(197, 116, 226);
+    font-size: 100px;
+}
+
+.smiley {
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px;
+    height: 20vh;
+    justify-content: space-between;
+}
+
+.membership button {
+    display: flex;
+    padding: 8px 10px;
+    margin-left: 45%;
+    color: white;
+    border-radius: 20px;
+    margin-top: 2%;
+    background-color: rgb(197, 116, 226);
+}
+
+.work h2 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.work h3 {
+    font-weight: bold;
+}
+
+.first {
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.second {
+    display: flex;
+    flex: 50%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.social {
+    display: flex;
+    justify-content: end;
+    padding: 40px;
+}
+
+.school {
+    display: flex;
+    justify-content: center;
+    font-size: xx-small;
+}
